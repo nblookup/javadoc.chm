@@ -9,3 +9,7 @@
 /build
 /bin
 *.log
+
+/.idea
+classes/
+*.iml
